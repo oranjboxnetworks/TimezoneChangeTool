@@ -1,0 +1,4 @@
+OranjBox artwork: OB-RGB.svg, provided by OranjBox Networks.
+oranjbox-logo.svg: unmodified copy of the supplied artwork.
+oranjbox-logo.xaml: WPF DrawingImage conversion of the same SVG path geometry.
+Original SIRKit branding removed from this fork.
